@@ -23,3 +23,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 Mock-up
 ![image](https://user-images.githubusercontent.com/89672040/175981456-a43a8c22-633a-4ac7-8863-515de4cd04c6.png)
 ![image](https://user-images.githubusercontent.com/89672040/175981492-22ff89c3-fa9e-484f-b8e1-ca1bf5a1cc09.png)
+
+Live URL: https://whispering-river-21457.herokuapp.com/
+Repo: https://github.com/xdatalinq/note-taker
