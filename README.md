@@ -11,14 +11,14 @@
 
   ## Description
   Note Taker that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file. 
-  Deployed via Heroku, tests included (Jest).
+  Deployed via Heroku.
 
     Built Using:
     
     JavaScript
     Node.js
     Express.js
-    Jest
+
  
   ## Screenshot
   ![image](https://user-images.githubusercontent.com/89672040/175981456-a43a8c22-633a-4ac7-8863-515de4cd04c6.png)
