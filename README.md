@@ -25,7 +25,7 @@
   ![image](https://user-images.githubusercontent.com/89672040/175981492-22ff89c3-fa9e-484f-b8e1-ca1bf5a1cc09.png)
   
   ## Live
-  Live: New Heroku deoplyment link coming soon!
+  Live: https://note-taker-4902-0483dff58397.herokuapp.com
   
   ## Repository
   Repo: https://github.com/xdatalinq/note-taker
